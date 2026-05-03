@@ -1,0 +1,111 @@
+# @spec: US1-T001 - Application configuration
+spring:
+  application:
+    name: user-management-api
+  
+  # @spec: US1-T001 - Database configuration
+  datasource:
+    url: ${DB_URL:jdbc:h2:mem:testdb;DB_CLOSE_DELAY=-1;DB_CLOSE_ON_EXIT=FALSE}
+    username: ${DB_USERNAME:sa}
+    password: ${DB_PASSWORD:}
+    driver-class-name: ${DB_DRIVER:org.h2.Driver}
+  
+  # @spec: US1-T001 - JPA configuration
+  jpa:
+    hibernate:
+      ddl-auto: ${DDL_AUTO:create-drop}
+    show-sql: ${SHOW_SQL:true}
+    properties:
+      hibernate:
+        dialect: ${DB_DIALECT:org.hibernate.dialect.H2Dialect}
+        format_sql: true
+  
+  # @spec: US1-T001 - H2 Console (development only)
+  h2:
+    console:
+      enabled: ${H2_CONSOLE_ENABLED:true}
+      path: /h2-console
+  
+  # @spec: US1-T001 - Security configuration
+  security:
+    user:
+      name: ${SECURITY_USER:admin}
+      password: ${SECURITY_PASSWORD:admin}
+
+# @spec: US1-T001 - Server configuration
+server:
+  port: ${SERVER_PORT:8080}
+  servlet:
+    context-path: ${CONTEXT_PATH:}
+
+# @spec: US1-T001 - Management endpoints
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health,info,metrics
+  endpoint:
+    health:
+      show-details: always
+
+# @spec: US1-T001 - Logging configuration
+logging:
+  level:
+    com.example: ${LOG_LEVEL:INFO}
+    org.springframework.security: DEBUG
+    org.hibernate.SQL: DEBUG
+    org.hibernate.type.descriptor.sql.BasicBinder: TRACE
+  pattern:
+    console: "%d{yyyy-MM-dd HH:mm:ss} [%thread] %-5level %logger{36} - %msg%n"
+
+# @spec: US1-T001 - Application specific configuration
+app:
+  security:
+    jwt:
+      secret: ${JWT_SECRET:mySecretKey}
+      expiration: ${JWT_EXPIRATION:86400} # 24 hours in seconds
+  
+  user:
+    password:
+      min-length: ${PASSWORD_MIN_LENGTH:8}
+      require-uppercase: ${PASSWORD_REQUIRE_UPPERCASE:true}
+      require-lowercase: ${PASSWORD_REQUIRE_LOWERCASE:true}
+      require-digit: ${PASSWORD_REQUIRE_DIGIT:true}
+    
+    validation:
+      name-min-length: ${NAME_MIN_LENGTH:2}
+      name-max-length: ${NAME_MAX_LENGTH:50}
+      email-max-length: ${EMAIL_MAX_LENGTH:100}
+
+---
+# @spec: US1-T001 - Production profile configuration
+spring:
+  config:
+    activate:
+      on-profile: production
+  
+  datasource:
+    url: ${DB_URL:jdbc:postgresql://localhost:5432/userdb}
+    username: ${DB_USERNAME:postgres}
+    password: ${DB_PASSWORD:password}
+    driver-class-name: org.postgresql.Driver
+  
+  jpa:
+    hibernate:
+      ddl-auto: validate
+    show-sql: false
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.PostgreSQLDialect
+        format_sql: false
+  
+  h2:
+    console:
+      enabled: false
+
+logging:
+  level:
+    com.example: INFO
+    org.springframework.security: WARN
+    org.hibernate: WARN
+    root: WARN
