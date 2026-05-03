@@ -39,13 +39,17 @@ dependencies {
 	// @spec: US1-T001 - Development tools
 	compileOnly 'org.projectlombok:lombok'
 	annotationProcessor 'org.projectlombok:lombok'
-	
+
 	// @spec: US1-T001 - Testing dependencies
 	testImplementation 'org.springframework.boot:spring-boot-starter-test'
 	testImplementation 'org.springframework.security:spring-security-test'
 	testImplementation 'org.testcontainers:junit-jupiter'
 	testImplementation 'org.testcontainers:postgresql'
 	testImplementation 'org.testcontainers:testcontainers'
+
+	// @spec: SDD-VAL-T001 - JUnit Platform Suite for validation test orchestration
+	testImplementation 'org.junit.platform:junit-platform-suite-api'
+	testImplementation 'org.junit.platform:junit-platform-suite-engine'
 }
 
 tasks.named('test') {

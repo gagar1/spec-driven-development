@@ -3,10 +3,24 @@
   <component name="VotesMapPersistentState">
     <option name="votesMap">
       <map>
+        <entry key="6052e5e1-4054-49c0-a60e-0945d3700232">
+          <value>
+            <VoteCacheDTO>
+              <option name="voteTime" value="2026-05-03T11:01:27.915036Z" />
+            </VoteCacheDTO>
+          </value>
+        </entry>
         <entry key="6c080804-2d35-4333-bc17-42fcc41d784f">
           <value>
             <VoteCacheDTO>
               <option name="voteTime" value="2026-05-03T10:38:39.501112Z" />
+            </VoteCacheDTO>
+          </value>
+        </entry>
+        <entry key="72759ed0-3510-4a6c-b075-51ea038900ff">
+          <value>
+            <VoteCacheDTO>
+              <option name="voteTime" value="2026-05-03T11:08:07.975436Z" />
             </VoteCacheDTO>
           </value>
         </entry>
@@ -17,10 +31,24 @@
             </VoteCacheDTO>
           </value>
         </entry>
+        <entry key="9663c1f9-283e-4ea6-b34a-6838df360f8a">
+          <value>
+            <VoteCacheDTO>
+              <option name="voteTime" value="2026-05-03T11:12:54.769239Z" />
+            </VoteCacheDTO>
+          </value>
+        </entry>
         <entry key="c624062c-4bbd-44bd-a1f5-f530098b8fb1">
           <value>
             <VoteCacheDTO>
               <option name="voteTime" value="2026-05-03T09:58:03.650371Z" />
+            </VoteCacheDTO>
+          </value>
+        </entry>
+        <entry key="e5cc9c72-b56b-4a15-a6fe-014e1e0f9cbd">
+          <value>
+            <VoteCacheDTO>
+              <option name="voteTime" value="2026-05-03T11:15:34.159541Z" />
             </VoteCacheDTO>
           </value>
         </entry>

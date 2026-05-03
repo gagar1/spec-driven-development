@@ -962,6 +962,1346 @@
             </FileEntry>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java">
+          <value>
+            <FileEntry>
+              <option name="meta">
+                <FileMeta>
+                  <option name="timeStamp" value="1777807355602" />
+                  <option name="hash" value="2085316859" />
+                </FileMeta>
+              </option>
+              <option name="records">
+                <list>
+                  <SymbolRecordBean>
+                    <option name="name" value="TraceabilityValidationTest" />
+                    <option name="kind" value="CLASS" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="41" />
+                    <option name="endLine" value="599" />
+                    <option name="endCharacter" value="1" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="PROJECT_ROOT" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="46" />
+                    <option name="startCharacter" value="32" />
+                    <option name="endLine" value="46" />
+                    <option name="endCharacter" value="77" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="SRC_PATH" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="47" />
+                    <option name="startCharacter" value="32" />
+                    <option name="endLine" value="47" />
+                    <option name="endCharacter" value="74" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="SPECS_PATH" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="48" />
+                    <option name="startCharacter" value="32" />
+                    <option name="endLine" value="48" />
+                    <option name="endCharacter" value="72" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="PLANS_PATH" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="49" />
+                    <option name="startCharacter" value="32" />
+                    <option name="endLine" value="49" />
+                    <option name="endCharacter" value="72" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="TASKS_PATH" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="50" />
+                    <option name="startCharacter" value="32" />
+                    <option name="endLine" value="50" />
+                    <option name="endCharacter" value="72" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="javaFiles" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="52" />
+                    <option name="startCharacter" value="25" />
+                    <option name="endLine" value="52" />
+                    <option name="endCharacter" value="34" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="specFiles" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="53" />
+                    <option name="startCharacter" value="25" />
+                    <option name="endLine" value="53" />
+                    <option name="endCharacter" value="34" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="planFiles" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="54" />
+                    <option name="startCharacter" value="25" />
+                    <option name="endLine" value="54" />
+                    <option name="endCharacter" value="34" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="taskFiles" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="55" />
+                    <option name="startCharacter" value="25" />
+                    <option name="endLine" value="55" />
+                    <option name="endCharacter" value="34" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="traceabilityChains" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="56" />
+                    <option name="startCharacter" value="43" />
+                    <option name="endLine" value="56" />
+                    <option name="endCharacter" value="61" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="setUp" />
+                    <option name="kind" value="METHOD" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="58" />
+                    <option name="startCharacter" value="4" />
+                    <option name="endLine" value="63" />
+                    <option name="endCharacter" value="5" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="validateCompleteTraceabilityChain" />
+                    <option name="kind" value="METHOD" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="71" />
+                    <option name="startCharacter" value="4" />
+                    <option name="endLine" value="92" />
+                    <option name="endCharacter" value="5" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="incompleteChains" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="74" />
+                    <option name="startCharacter" value="21" />
+                    <option name="endLine" value="74" />
+                    <option name="endCharacter" value="57" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="specId" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="77" />
+                    <option name="startCharacter" value="19" />
+                    <option name="endLine" value="77" />
+                    <option name="endCharacter" value="42" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="chain" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="78" />
+                    <option name="startCharacter" value="30" />
+                    <option name="endLine" value="78" />
+                    <option name="endCharacter" value="54" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="missingElements" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="82" />
+                    <option name="startCharacter" value="29" />
+                    <option name="endLine" value="82" />
+                    <option name="endCharacter" value="73" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="validateBidirectionalTraceability" />
+                    <option name="kind" value="METHOD" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="100" />
+                    <option name="startCharacter" value="4" />
+                    <option name="endLine" value="134" />
+                    <option name="endCharacter" value="5" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="traceabilityIssues" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="103" />
+                    <option name="startCharacter" value="21" />
+                    <option name="endLine" value="103" />
+                    <option name="endCharacter" value="59" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="codeToSpecTags" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="106" />
+                    <option name="startCharacter" value="34" />
+                    <option name="endLine" value="106" />
+                    <option name="endCharacter" value="76" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="javaFile" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="109" />
+                    <option name="startCharacter" value="19" />
+                    <option name="endLine" value="109" />
+                    <option name="endCharacter" value="44" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="specTags" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="110" />
+                    <option name="startCharacter" value="25" />
+                    <option name="endLine" value="110" />
+                    <option name="endCharacter" value="52" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="specId" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="113" />
+                    <option name="startCharacter" value="23" />
+                    <option name="endLine" value="113" />
+                    <option name="endCharacter" value="61" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="chain" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="121" />
+                    <option name="startCharacter" value="38" />
+                    <option name="endLine" value="121" />
+                    <option name="endCharacter" value="76" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="detectOrphanedCode" />
+                    <option name="kind" value="METHOD" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="142" />
+                    <option name="startCharacter" value="4" />
+                    <option name="endLine" value="177" />
+                    <option name="endCharacter" value="5" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="orphanedCode" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="145" />
+                    <option name="startCharacter" value="21" />
+                    <option name="endLine" value="145" />
+                    <option name="endCharacter" value="53" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="content" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="148" />
+                    <option name="startCharacter" value="19" />
+                    <option name="endLine" value="148" />
+                    <option name="endCharacter" value="66" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="fileName" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="149" />
+                    <option name="startCharacter" value="19" />
+                    <option name="endLine" value="149" />
+                    <option name="endCharacter" value="74" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="publicMethods" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="162" />
+                    <option name="startCharacter" value="29" />
+                    <option name="endLine" value="162" />
+                    <option name="endCharacter" value="74" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="taggedMethods" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="163" />
+                    <option name="startCharacter" value="29" />
+                    <option name="endLine" value="163" />
+                    <option name="endCharacter" value="74" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="coverageRatio" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="165" />
+                    <option name="startCharacter" value="23" />
+                    <option name="endLine" value="165" />
+                    <option name="endCharacter" value="104" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="detectMissingImplementations" />
+                    <option name="kind" value="METHOD" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="185" />
+                    <option name="startCharacter" value="4" />
+                    <option name="endLine" value="209" />
+                    <option name="endCharacter" value="5" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="missingImplementations" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="188" />
+                    <option name="startCharacter" value="21" />
+                    <option name="endLine" value="188" />
+                    <option name="endCharacter" value="63" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="specId" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="191" />
+                    <option name="startCharacter" value="19" />
+                    <option name="endLine" value="191" />
+                    <option name="endCharacter" value="42" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="chain" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="192" />
+                    <option name="startCharacter" value="30" />
+                    <option name="endLine" value="192" />
+                    <option name="endCharacter" value="54" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="requirements" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="195" />
+                    <option name="startCharacter" value="25" />
+                    <option name="endLine" value="195" />
+                    <option name="endCharacter" value="88" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="validateTraceabilityConsistency" />
+                    <option name="kind" value="METHOD" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="217" />
+                    <option name="startCharacter" value="4" />
+                    <option name="endLine" value="253" />
+                    <option name="endCharacter" value="5" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="consistencyIssues" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="220" />
+                    <option name="startCharacter" value="21" />
+                    <option name="endLine" value="220" />
+                    <option name="endCharacter" value="58" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="validTagPattern" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="223" />
+                    <option name="startCharacter" value="16" />
+                    <option name="endLine" value="223" />
+                    <option name="endCharacter" value="99" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="content" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="226" />
+                    <option name="startCharacter" value="19" />
+                    <option name="endLine" value="226" />
+                    <option name="endCharacter" value="66" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="fileName" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="227" />
+                    <option name="startCharacter" value="19" />
+                    <option name="endLine" value="227" />
+                    <option name="endCharacter" value="74" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="allSpecTags" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="230" />
+                    <option name="startCharacter" value="20" />
+                    <option name="endLine" value="230" />
+                    <option name="endCharacter" value="65" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="matcher" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="231" />
+                    <option name="startCharacter" value="20" />
+                    <option name="endLine" value="231" />
+                    <option name="endCharacter" value="58" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="tag" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="234" />
+                    <option name="startCharacter" value="23" />
+                    <option name="endLine" value="234" />
+                    <option name="endCharacter" value="44" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="validateCrossArtifactTraceability" />
+                    <option name="kind" value="METHOD" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="261" />
+                    <option name="startCharacter" value="4" />
+                    <option name="endLine" value="307" />
+                    <option name="endCharacter" value="5" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="crossArtifactIssues" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="264" />
+                    <option name="startCharacter" value="21" />
+                    <option name="endLine" value="264" />
+                    <option name="endCharacter" value="60" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="specId" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="267" />
+                    <option name="startCharacter" value="19" />
+                    <option name="endLine" value="267" />
+                    <option name="endCharacter" value="42" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="chain" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="268" />
+                    <option name="startCharacter" value="30" />
+                    <option name="endLine" value="268" />
+                    <option name="endCharacter" value="54" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="specReferences" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="272" />
+                    <option name="startCharacter" value="29" />
+                    <option name="endLine" value="272" />
+                    <option name="endCharacter" value="96" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="planReferences" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="282" />
+                    <option name="startCharacter" value="29" />
+                    <option name="endLine" value="282" />
+                    <option name="endCharacter" value="85" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="codeReferences" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="292" />
+                    <option name="startCharacter" value="29" />
+                    <option name="endLine" value="292" />
+                    <option name="endCharacter" value="89" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="hasValidReference" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="293" />
+                    <option name="startCharacter" value="24" />
+                    <option name="endLine" value="294" />
+                    <option name="endCharacter" value="60" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="TraceabilityChain" />
+                    <option name="kind" value="CLASS" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="315" />
+                    <option name="startCharacter" value="4" />
+                    <option name="endLine" value="363" />
+                    <option name="endCharacter" value="5" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="specId" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="316" />
+                    <option name="startCharacter" value="23" />
+                    <option name="endLine" value="316" />
+                    <option name="endCharacter" value="29" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="specFile" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="317" />
+                    <option name="startCharacter" value="23" />
+                    <option name="endLine" value="317" />
+                    <option name="endCharacter" value="31" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="planFile" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="318" />
+                    <option name="startCharacter" value="23" />
+                    <option name="endLine" value="318" />
+                    <option name="endCharacter" value="31" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="taskFiles" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="319" />
+                    <option name="startCharacter" value="29" />
+                    <option name="endLine" value="319" />
+                    <option name="endCharacter" value="58" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="implementationFiles" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="320" />
+                    <option name="startCharacter" value="29" />
+                    <option name="endLine" value="320" />
+                    <option name="endCharacter" value="68" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="TraceabilityChain" />
+                    <option name="kind" value="CONSTRUCTOR" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="322" />
+                    <option name="startCharacter" value="8" />
+                    <option name="endLine" value="324" />
+                    <option name="endCharacter" value="9" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="hasCompleteChain" />
+                    <option name="kind" value="METHOD" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="326" />
+                    <option name="startCharacter" value="8" />
+                    <option name="endLine" value="330" />
+                    <option name="endCharacter" value="9" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="getMissingElements" />
+                    <option name="kind" value="METHOD" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="332" />
+                    <option name="startCharacter" value="8" />
+                    <option name="endLine" value="339" />
+                    <option name="endCharacter" value="9" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="missing" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="333" />
+                    <option name="startCharacter" value="25" />
+                    <option name="endLine" value="333" />
+                    <option name="endCharacter" value="52" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="containsImplementationFile" />
+                    <option name="kind" value="METHOD" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="341" />
+                    <option name="startCharacter" value="8" />
+                    <option name="endLine" value="343" />
+                    <option name="endCharacter" value="9" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="hasPlan" />
+                    <option name="kind" value="METHOD" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="345" />
+                    <option name="startCharacter" value="8" />
+                    <option name="endLine" value="347" />
+                    <option name="endCharacter" value="9" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="getSpecFile" />
+                    <option name="kind" value="METHOD" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="350" />
+                    <option name="startCharacter" value="8" />
+                    <option name="endLine" value="350" />
+                    <option name="endCharacter" value="56" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="setSpecFile" />
+                    <option name="kind" value="METHOD" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="351" />
+                    <option name="startCharacter" value="8" />
+                    <option name="endLine" value="351" />
+                    <option name="endCharacter" value="78" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="getPlanFile" />
+                    <option name="kind" value="METHOD" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="353" />
+                    <option name="startCharacter" value="8" />
+                    <option name="endLine" value="353" />
+                    <option name="endCharacter" value="56" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="setPlanFile" />
+                    <option name="kind" value="METHOD" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="354" />
+                    <option name="startCharacter" value="8" />
+                    <option name="endLine" value="354" />
+                    <option name="endCharacter" value="78" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="getTaskFiles" />
+                    <option name="kind" value="METHOD" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="356" />
+                    <option name="startCharacter" value="8" />
+                    <option name="endLine" value="356" />
+                    <option name="endCharacter" value="64" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="addTaskFile" />
+                    <option name="kind" value="METHOD" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="357" />
+                    <option name="startCharacter" value="8" />
+                    <option name="endLine" value="357" />
+                    <option name="endCharacter" value="82" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="getImplementationFiles" />
+                    <option name="kind" value="METHOD" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="359" />
+                    <option name="startCharacter" value="8" />
+                    <option name="endLine" value="359" />
+                    <option name="endCharacter" value="84" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="addImplementationFile" />
+                    <option name="kind" value="METHOD" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="360" />
+                    <option name="startCharacter" value="8" />
+                    <option name="endLine" value="362" />
+                    <option name="endCharacter" value="9" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="loadAllFiles" />
+                    <option name="kind" value="METHOD" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="369" />
+                    <option name="startCharacter" value="4" />
+                    <option name="endLine" value="374" />
+                    <option name="endCharacter" value="5" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="loadFilesWithExtension" />
+                    <option name="kind" value="METHOD" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="380" />
+                    <option name="startCharacter" value="4" />
+                    <option name="endLine" value="393" />
+                    <option name="endCharacter" value="5" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="dir" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="381" />
+                    <option name="startCharacter" value="13" />
+                    <option name="endLine" value="381" />
+                    <option name="endCharacter" value="39" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="buildTraceabilityChains" />
+                    <option name="kind" value="METHOD" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="399" />
+                    <option name="startCharacter" value="4" />
+                    <option name="endLine" value="436" />
+                    <option name="endCharacter" value="5" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="specId" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="404" />
+                    <option name="startCharacter" value="19" />
+                    <option name="endLine" value="404" />
+                    <option name="endCharacter" value="63" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="chain" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="405" />
+                    <option name="startCharacter" value="30" />
+                    <option name="endLine" value="405" />
+                    <option name="endCharacter" value="67" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="specId" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="412" />
+                    <option name="startCharacter" value="19" />
+                    <option name="endLine" value="412" />
+                    <option name="endCharacter" value="63" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="specId" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="420" />
+                    <option name="startCharacter" value="19" />
+                    <option name="endLine" value="420" />
+                    <option name="endCharacter" value="63" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="specTags" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="428" />
+                    <option name="startCharacter" value="25" />
+                    <option name="endLine" value="428" />
+                    <option name="endCharacter" value="69" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="specId" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="430" />
+                    <option name="startCharacter" value="23" />
+                    <option name="endLine" value="430" />
+                    <option name="endCharacter" value="57" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="extractSpecTagsFromCode" />
+                    <option name="kind" value="METHOD" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="440" />
+                    <option name="startCharacter" value="4" />
+                    <option name="endLine" value="451" />
+                    <option name="endCharacter" value="5" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="result" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="441" />
+                    <option name="startCharacter" value="34" />
+                    <option name="endLine" value="441" />
+                    <option name="endCharacter" value="58" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="tags" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="444" />
+                    <option name="startCharacter" value="25" />
+                    <option name="endLine" value="444" />
+                    <option name="endCharacter" value="65" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="extractSpecTagsFromFile" />
+                    <option name="kind" value="METHOD" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="453" />
+                    <option name="startCharacter" value="4" />
+                    <option name="endLine" value="465" />
+                    <option name="endCharacter" value="5" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="content" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="454" />
+                    <option name="startCharacter" value="15" />
+                    <option name="endLine" value="454" />
+                    <option name="endCharacter" value="62" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="tags" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="455" />
+                    <option name="startCharacter" value="21" />
+                    <option name="endLine" value="455" />
+                    <option name="endCharacter" value="45" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="pattern" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="457" />
+                    <option name="startCharacter" value="16" />
+                    <option name="endLine" value="457" />
+                    <option name="endCharacter" value="67" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="matcher" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="458" />
+                    <option name="startCharacter" value="16" />
+                    <option name="endLine" value="458" />
+                    <option name="endCharacter" value="50" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="extractSpecIdFromTag" />
+                    <option name="kind" value="METHOD" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="467" />
+                    <option name="startCharacter" value="4" />
+                    <option name="endLine" value="469" />
+                    <option name="endCharacter" value="5" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="extractSpecIdFromFileName" />
+                    <option name="kind" value="METHOD" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="471" />
+                    <option name="startCharacter" value="4" />
+                    <option name="endLine" value="475" />
+                    <option name="endCharacter" value="5" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="pattern" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="472" />
+                    <option name="startCharacter" value="16" />
+                    <option name="endLine" value="472" />
+                    <option name="endCharacter" value="57" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="matcher" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="473" />
+                    <option name="startCharacter" value="16" />
+                    <option name="endLine" value="473" />
+                    <option name="endCharacter" value="51" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="isTestFile" />
+                    <option name="kind" value="METHOD" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="477" />
+                    <option name="startCharacter" value="4" />
+                    <option name="endLine" value="479" />
+                    <option name="endCharacter" value="5" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="isConfigurationFile" />
+                    <option name="kind" value="METHOD" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="481" />
+                    <option name="startCharacter" value="4" />
+                    <option name="endLine" value="483" />
+                    <option name="endCharacter" value="5" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="hasSpecTraceabilityTags" />
+                    <option name="kind" value="METHOD" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="485" />
+                    <option name="startCharacter" value="4" />
+                    <option name="endLine" value="487" />
+                    <option name="endCharacter" value="5" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="extractPublicMethods" />
+                    <option name="kind" value="METHOD" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="489" />
+                    <option name="startCharacter" value="4" />
+                    <option name="endLine" value="499" />
+                    <option name="endCharacter" value="5" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="methods" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="490" />
+                    <option name="startCharacter" value="21" />
+                    <option name="endLine" value="490" />
+                    <option name="endCharacter" value="48" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="pattern" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="491" />
+                    <option name="startCharacter" value="16" />
+                    <option name="endLine" value="491" />
+                    <option name="endCharacter" value="76" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="matcher" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="492" />
+                    <option name="startCharacter" value="16" />
+                    <option name="endLine" value="492" />
+                    <option name="endCharacter" value="50" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="extractTaggedMethods" />
+                    <option name="kind" value="METHOD" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="501" />
+                    <option name="startCharacter" value="4" />
+                    <option name="endLine" value="517" />
+                    <option name="endCharacter" value="5" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="taggedMethods" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="502" />
+                    <option name="startCharacter" value="21" />
+                    <option name="endLine" value="502" />
+                    <option name="endCharacter" value="54" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="lines" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="503" />
+                    <option name="startCharacter" value="17" />
+                    <option name="endLine" value="503" />
+                    <option name="endCharacter" value="44" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="i" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="505" />
+                    <option name="startCharacter" value="17" />
+                    <option name="endLine" value="505" />
+                    <option name="endCharacter" value="22" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="pattern" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="508" />
+                    <option name="startCharacter" value="24" />
+                    <option name="endLine" value="508" />
+                    <option name="endCharacter" value="84" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="matcher" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="509" />
+                    <option name="startCharacter" value="24" />
+                    <option name="endLine" value="509" />
+                    <option name="endCharacter" value="63" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="extractRequirementsFromSpec" />
+                    <option name="kind" value="METHOD" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="519" />
+                    <option name="startCharacter" value="4" />
+                    <option name="endLine" value="534" />
+                    <option name="endCharacter" value="5" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="content" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="522" />
+                    <option name="startCharacter" value="15" />
+                    <option name="endLine" value="522" />
+                    <option name="endCharacter" value="62" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="requirements" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="523" />
+                    <option name="startCharacter" value="21" />
+                    <option name="endLine" value="523" />
+                    <option name="endCharacter" value="53" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="pattern" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="526" />
+                    <option name="startCharacter" value="16" />
+                    <option name="endLine" value="526" />
+                    <option name="endCharacter" value="59" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="matcher" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="527" />
+                    <option name="startCharacter" value="16" />
+                    <option name="endLine" value="527" />
+                    <option name="endCharacter" value="50" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="hasCorrespondingImplementation" />
+                    <option name="kind" value="METHOD" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="536" />
+                    <option name="startCharacter" value="4" />
+                    <option name="endLine" value="559" />
+                    <option name="endCharacter" value="5" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="requirementLower" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="537" />
+                    <option name="startCharacter" value="15" />
+                    <option name="endLine" value="537" />
+                    <option name="endCharacter" value="59" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="content" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="540" />
+                    <option name="startCharacter" value="19" />
+                    <option name="endLine" value="540" />
+                    <option name="endCharacter" value="90" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="keywords" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="543" />
+                    <option name="startCharacter" value="21" />
+                    <option name="endLine" value="543" />
+                    <option name="endCharacter" value="62" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="matchCount" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="544" />
+                    <option name="startCharacter" value="16" />
+                    <option name="endLine" value="544" />
+                    <option name="endCharacter" value="30" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="isProperlyPlaced" />
+                    <option name="kind" value="METHOD" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="561" />
+                    <option name="startCharacter" value="4" />
+                    <option name="endLine" value="570" />
+                    <option name="endCharacter" value="5" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="tagIndex" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="563" />
+                    <option name="startCharacter" value="12" />
+                    <option name="endLine" value="563" />
+                    <option name="endCharacter" value="43" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="afterTag" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="566" />
+                    <option name="startCharacter" value="15" />
+                    <option name="endLine" value="566" />
+                    <option name="endCharacter" value="68" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="extractSpecReferencesFromPlan" />
+                    <option name="kind" value="METHOD" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="572" />
+                    <option name="startCharacter" value="4" />
+                    <option name="endLine" value="584" />
+                    <option name="endCharacter" value="5" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="content" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="573" />
+                    <option name="startCharacter" value="15" />
+                    <option name="endLine" value="573" />
+                    <option name="endCharacter" value="62" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="references" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="574" />
+                    <option name="startCharacter" value="21" />
+                    <option name="endLine" value="574" />
+                    <option name="endCharacter" value="51" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="pattern" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="576" />
+                    <option name="startCharacter" value="16" />
+                    <option name="endLine" value="576" />
+                    <option name="endCharacter" value="57" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="matcher" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="577" />
+                    <option name="startCharacter" value="16" />
+                    <option name="endLine" value="577" />
+                    <option name="endCharacter" value="50" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="extractPlanReferencesFromTask" />
+                    <option name="kind" value="METHOD" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="586" />
+                    <option name="startCharacter" value="4" />
+                    <option name="endLine" value="598" />
+                    <option name="endCharacter" value="5" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="content" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="587" />
+                    <option name="startCharacter" value="15" />
+                    <option name="endLine" value="587" />
+                    <option name="endCharacter" value="62" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="references" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="588" />
+                    <option name="startCharacter" value="21" />
+                    <option name="endLine" value="588" />
+                    <option name="endCharacter" value="51" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="pattern" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="590" />
+                    <option name="startCharacter" value="16" />
+                    <option name="endLine" value="590" />
+                    <option name="endCharacter" value="57" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="matcher" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/TraceabilityValidationTest.java" />
+                    <option name="startLine" value="591" />
+                    <option name="startCharacter" value="16" />
+                    <option name="endLine" value="591" />
+                    <option name="endCharacter" value="50" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                </list>
+              </option>
+            </FileEntry>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/example/validation/ValidationTestSuite.java">
+          <value>
+            <FileEntry>
+              <option name="meta">
+                <FileMeta>
+                  <option name="timeStamp" value="1777807414182" />
+                  <option name="hash" value="2061458055" />
+                </FileMeta>
+              </option>
+              <option name="records">
+                <list>
+                  <SymbolRecordBean>
+                    <option name="name" value="ValidationTestSuite" />
+                    <option name="kind" value="CLASS" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/example/validation/ValidationTestSuite.java" />
+                    <option name="startLine" value="34" />
+                    <option name="endLine" value="56" />
+                    <option name="endCharacter" value="1" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                </list>
+              </option>
+            </FileEntry>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
